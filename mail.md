@@ -12,13 +12,13 @@
     <h1 class ="logo-text">Ottegram</h1>
     <ul class="header-nav-bar">
       <li class="nav-bar-item">
-        <a href="./about.html">О выдрах</a>
+        <a href="./about">О выдрах</a>
       </li>
       <li class="nav-bar-item">
-        <a href="./index.html">Фото</a>
+        <a href="./index">Фото</a>
       </li>
       <li class="nav-bar-item">
-        <a href="./mail.html">Написать нам</a>
+        <a href="./mail">Написать нам</a>
       </li>
     </ul>
   </header>
